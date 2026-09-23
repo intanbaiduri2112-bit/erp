@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Attributes\Fillable;
 
 #[Fillable(['name','address','email','phone_number','logo'])]
 
-class company extends Model
+class Company extends Model
 {
     //
 }
